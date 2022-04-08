@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import CoreData
 
 class FormularioViewController: UIViewController {
     var bdv = FilmeModel()
